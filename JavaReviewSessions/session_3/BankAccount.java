@@ -1,7 +1,7 @@
 /**
  * Class for creating a new instance of a bank account.
  */
-public class BankAccount implements Account, Comparable<BankAccount> {
+public abstract class BankAccount implements Account, Comparable<BankAccount> {
 
     // list all the interfaces types that this class implements
 
