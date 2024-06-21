@@ -1,0 +1,13 @@
+[ {
+  "title" : "The Hobbit",
+  "author" : "J.R.R. Tolkien",
+  "year" : 1937,
+  "bookIdentifier" : "978-0618002214",
+  "genre" : "Fantasy"
+}, {
+  "title" : "The Fellowship of the Ring",
+  "author" : "J.R.R. Tolkien",
+  "year" : 1954,
+  "bookIdentifier" : "978-0618002214",
+  "genre" : "Fantasy"
+} ]
