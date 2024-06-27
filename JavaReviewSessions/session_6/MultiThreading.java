@@ -43,6 +43,7 @@ public class MultiThreading {
                 // terminal operation to call the lazily evaluated operations
                 .sum();
 
+		// print out how many available processors you have
         System.out.println("Available processors: " + Runtime.getRuntime().availableProcessors());
 
     }
